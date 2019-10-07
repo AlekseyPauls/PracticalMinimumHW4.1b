@@ -1,5 +1,5 @@
-#Home work
+# Home work
 
-###Compilation
+### Compilation
 
 Use *make pdf* for compiling tex to pdf
